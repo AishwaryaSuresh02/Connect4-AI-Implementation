@@ -1,0 +1,5 @@
+Coups: <connect_4_board.ConnectFour object at 0x160730820>
+Scores: [-20, nan, nan, nan, inf, nan, nan]
+Board: 221211122121222112112112121111122120222021
+Game Over: False
+ 
